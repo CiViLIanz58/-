@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R3Hyxc1/kompastv-home-tv.png" group-title="Nasional" tvg-id="Kompas TV", Kompas TV
+http://210.210.155.35/session/20bda120-186e-11ec-9731-bee29a261415/qwr9ew/s/s104/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R3Hyxc1/kompastv-home-tv.png" group-title="Nasional" tvg-id="Kompas TV Backup", Kompas TV Backup
+http://playlist.urfan.web.id/qwr9ew/s/s104/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GVqKN0m/cnn-indonesia-home-tv.png" group-title="Nasional" tvg-id="CNN Indonesia", CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1879540144_b384000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FxD8rj8/beritasatu-home-tv.png" group-title="Nasional" tvg-id="Berita Satu", Berita Satu
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FxD8rj8/beritasatu-home-tv.png" group-title="Nasional" tvg-id="Berita Satu Backup", Berita Satu Backup
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d5tmxwX/tvri-home-tv.png" group-title="Nasional" tvg-id="TVRI", TVRI
+http://103.30.87.238:443/live/terdampak/tersakiti/102.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hyWjnZ7/cnbc-indonesia-home-tv.png" group-title="Nasional" tvg-id="CNBC Indonesia", CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w18248186_b384000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M9c0sy2/metrotv-home-tv.png" group-title="Nasional" tvg-id="Metro TV", Metro TV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d3d9446802a44259755d38e6d163e820dfdded94c48ea6229c48edefa9ec1c9f
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ptrwg6d/tvone-home-tv.png" group-title="Nasional" tvg-id="TVONE", TVONE
+http://210.210.155.35:80/qwr9ew/s/s105/02.m3u8
