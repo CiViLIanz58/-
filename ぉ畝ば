@@ -17,3 +17,28 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w18248186_b38
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d3d9446802a44259755d38e6d163e820dfdded94c48ea6229c48edefa9ec1c9f
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ptrwg6d/tvone-home-tv.png" group-title="Nasional" tvg-id="TVONE", TVONE
 http://210.210.155.35:80/qwr9ew/s/s105/02.m3u8
+
+########################################################     Local     ########################################################
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qC5NGhR/indosiar-home-tv.png" group-title="Local" tvg-id="Indosiar V+", Indosiar V+
+https://visionplus-stream.visionplus.id/live/eds/INDOSIAR-ryzen/sa_hls/INDOSIAR-ryzen.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qC5NGhR/indosiar-home-tv.png" group-title="Local" tvg-id="Indosiar Backup", Indosiar Backup
+http://210.210.155.35:80/qwr9ew/s/s04/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/478Nqtp/antv-home-tv.png" group-title="Local" tvg-id="ANTV", ANTV
+http://210.210.155.35/session/62243934-186f-11ec-8c03-be12bd09f87c/qwr9ew/s/s07/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/478Nqtp/antv-home-tv.png" group-title="Local" tvg-id="ANTV Backup", ANTV Backup
+http://playlist.urfan.web.id/qwr9ew/s/s07/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFC9nw1/sctv-home-tv.png" group-title="Local" tvg-id="SCTV", SCTV
+https://visionplus-stream.visionplus.id/live/eds/SCTV-intel/sa_hls/SCTV-intel.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFC9nw1/sctv-home-tv.png" group-title="Local" tvg-id="SCTV Backup", SCTV Backup
+http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dPFnbkz/trans7-home-tv.png" group-title="Local" tvg-id="Trans 7", Trans 7
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_shareExt_b744100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ChZx3vT/transtv-home-tv.png" group-title="Local" tvg-id="Trans TV V+", Trans TV V+
+https://visionplus-stream.visionplus.id/live/eds/TRANSTV-autobot/sa_hls/TRANSTV-autobot.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ChZx3vT/transtv-home-tv.png" group-title="Local" tvg-id="Trans TV Backup", Trans TV Backup
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mJjQDnj/nettv-home-tv.png" group-title="Local" tvg-id="Net TV", Net TV
+http://playlist.urfan.web.id/qwr9ew/s/s08/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d5tmxwX/tvri-home-tv.png" group-title="Local" tvg-id="TVRI", TVRI
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
