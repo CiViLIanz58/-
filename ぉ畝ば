@@ -99,8 +99,7 @@ http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 ########################################################     Kids     ########################################################
 
 #EXTINF:-1 tvg-logo="https://www.biznethome.net/bin/images/tv-program/channel/BiznetHomeKids.jpg" group-title="Kids" tvg-id="Biznet Kids", Biznet Kids
-http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0jmNtcM6/disney-XD.png" group-title="Kids" tvg-id="Disney XD", Disney XD
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8#EXTINF:-1 tvg-logo="https://i.postimg.cc/0jmNtcM6/disney-XD.png" group-title="Kids" tvg-id="Disney XD", Disney XD
 http://51.79.82.231:8080/US_DISNEY_CHANNEL_EAST_USA/video.m3u8
 
 ########################################################     Sports     ########################################################
@@ -111,6 +110,14 @@ https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8?id=eroz_br
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 #EXTINF:-1 tvg-logo="'https://www.lyngsat.com/logo/tv/ee/eleven-sports-2-portugal-uk-pt.png" group-title="Sports" tvg-id="Eleven Sports 2 HD", Eleven Sports 2 HD
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
+#EXTINF:-1 tvg-logo="'http://warkopteve.xyz/img/ten1.png" group-title="Sports" tvg-id="Sony TEN 1 FHD", Sony TEN 1 FHD
+https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
+#EXTINF:-1 tvg-logo="'http://warkopteve.xyz/img/ten2.png" group-title="Sports" tvg-id="Sony TEN 2 FHD", Sony TEN 2 FHD
+https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
+#EXTINF:-1 tvg-logo="'http://warkopteve.xyz/img/ten3.png" group-title="Sports" tvg-id="Sony TEN 3 FHD", Sony TEN 3 FHD
+https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
+
+
 
 
 
