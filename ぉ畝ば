@@ -42,3 +42,5 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 http://playlist.urfan.web.id/qwr9ew/s/s08/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d5tmxwX/tvri-home-tv.png" group-title="Local" tvg-id="TVRI", TVRI
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d5tmxwX/tvri-home-tv.png" group-title="Local" tvg-id="SCTV", SCTV
+http://koceng.xyz/BlackCoffee/v.m3u8?koceng=sctv
