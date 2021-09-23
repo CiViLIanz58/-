@@ -66,5 +66,18 @@ http://122.248.43.138:1935/ch23/myStream/live.m3u8
 http://50.7.161.82:8278/streams/d/ohk_pye/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SKhTC4ns/HBO2.png" group-title="Movies" tvg-id="HBO HD", HBO HD
 https://liveorigin01.hbogoasia.com:8443/origin/live/MSIA/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kXLhMK9W/hbohits22.png" group-title="Movies" tvg-id="HBO Hits HD", HBO Hits HD
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXyc10mJ/hboff33.png" group-title="Movies" tvg-id="HBO Family HD", HBO Family HD
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZY7MgXM7/hbosig2.png" group-title="Movies" tvg-id="HBO Signature HD", HBO Signature HD
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Gmy39FDR/cinema2.png" group-title="Movies" tvg-id="Cinemax HD", Cinemax HD
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ydWbYPJX/foxm22.png" group-title="Movies" tvg-id="Fox Movies HD", Fox Movies HD
+http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/50
+
+
+
 
 
